@@ -1,1 +1,3 @@
-# Visualization Report in Power Bi 
+# Super Store Profit Report
+
+Visualization Report in Power Bi 
